@@ -1,5 +1,6 @@
 Este projeto não é apenas tecnológico — é humano.
 
+
 O CuidaMente SM é uma plataforma web desenvolvida para facilitar o acesso da população de Santa Maria (RS) a profissionais especializados em saúde mental.
 A proposta nasceu da necessidade de facilitar a busca de pacientes por psiquiatras, oferecendo uma interface intuitiva, humanizada e informacional.
 
@@ -17,22 +18,36 @@ falta orientação sobre especialidades e não possuem rede de apoio que indique
 Ele contribui para:
 
 -Reduzir o tempo de busca por ajuda profissional;
+
 -Guiar pessoas rapidamente para atendimento adequado;
+
 -Diminuir o estigma sobre saúde mental;
+
 -Promover conhecimento e psicoeducação;
+
 -Democratizar o acesso à informação confiável;
+
 -Estimular a procura precoce por tratamento;
+
 
 Funcionalidades principais:
 
 -Diretório de psiquiatras e profissionais de saúde mental;
+
 -Sistema de busca por filtros;
+
 -Localização por bairro/região;
+
 -Perfis individuais com informações profissionais;
+
 -Links para contato imediato;
+
 -Conteúdo psicoeducativo acessível;
+
 -Interface responsiva e inclusiva;
+
 -Linguagem acolhedora e não estigmatizante
+
 
 Ele resolve um problema real: a dificuldade de encontrar atendimento especializado. Utiliza tecnologia para criar inclusão, 
 facilitar o acesso à informação e gerar impacto social imediato. É um produto digital escalável, que pode se expandir para outras cidades e especialidades,
