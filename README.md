@@ -17,35 +17,23 @@ falta orientação sobre especialidades e não possuem rede de apoio que indique
 
 Ele contribui para:
 
--Reduzir o tempo de busca por ajuda profissional;
-
--Guiar pessoas rapidamente para atendimento adequado;
-
--Diminuir o estigma sobre saúde mental;
-
--Promover conhecimento e psicoeducação;
-
--Democratizar o acesso à informação confiável;
-
--Estimular a procura precoce por tratamento;
+-Reduzir o tempo de busca por ajuda profissional;            
+-Guiar pessoas rapidamente para atendimento adequado;     
+-Diminuir o estigma sobre saúde mental;       
+-Promover conhecimento e psicoeducação;      
+-Democratizar o acesso à informação confiável;   
+-Estimular a procura precoce por tratamento; 
 
 
 Funcionalidades principais:
 
--Diretório de psiquiatras e profissionais de saúde mental;
-
--Sistema de busca por filtros;
-
--Localização por bairro/região;
-
--Perfis individuais com informações profissionais;
-
--Links para contato imediato;
-
--Conteúdo psicoeducativo acessível;
-
--Interface responsiva e inclusiva;
-
+-Diretório de psiquiatras e profissionais de saúde mental;   
+-Sistema de busca por filtros; 
+-Localização por bairro/região;   
+-Perfis individuais com informações profissionais;  
+-Links para contato imediato;   
+-Conteúdo psicoeducativo acessível;    
+-Interface responsiva e inclusiva;   
 -Linguagem acolhedora e não estigmatizante
 
 
@@ -58,9 +46,9 @@ Em um contexto onde a saúde mental ainda é relativizada, o CuidaMente SM atua 
 
 Futuras evoluções do projeto
 
--Avaliação e feedback anônimos sobre profissionais
--Chat de suporte inicial orientativo;
--API de integração com clínicas e hospitais;
--Ampliação para toda a região central do RS, estado e país;
--Parcerias com universidades e projetos sociais;
--Expansão para psicólogos, terapeutas ocupacionais e neuropsicólogos.
+-Avaliação e feedback anônimos sobre profissionais  
+-Chat de suporte inicial orientativo;   
+-API de integração com clínicas e hospitais;   
+-Ampliação para toda a região central do RS, estado e país;    
+-Parcerias com universidades e projetos sociais;     
+-Expansão para psicólogos, terapeutas ocupacionais e neuropsicólogos.     
